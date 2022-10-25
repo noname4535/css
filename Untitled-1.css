@@ -1,0 +1,36 @@
+body {
+    background-image:url("https://img.freepik.com/free-vector/smooth-white-wave-background_52683-55288.jpg?w=2000");
+    background-position: center;
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+}
+
+.class1 {
+    font-size:50;
+    text-align:center;
+    color:aqua;
+    background-color: blue;
+}
+
+.class2 {
+    text-align:center;
+    color:rgb(25, 36, 192);
+    font-size:50
+}
+
+.class3 {
+    text-align:center;
+    color:rgb(125, 25, 192);
+    font-size:40
+}
+
+.class4 {
+    color:gold;
+    font-size:25;
+}
+
+.class5 {
+    color:orange;
+    font-size:25;
+}
+
